@@ -1,2 +1,1 @@
-webHome
- is a GitHubPage that collect website.
+This is an easy searching page.</br> Maybe you can use it as your  homepage.
